@@ -17,7 +17,7 @@
     required maxlength="80">
 <label for="email">Email</label>
 <input type="email" name="email" id="email" 
-    required maxlength="120">
+    required maxlength="150">
 <label for="pesan">Pesan Max 500 Karakter</label>
 <textarea name="pesan" id="pesan" 
     required maxlength="500" rows="5"></textarea>
